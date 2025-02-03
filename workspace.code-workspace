@@ -1,0 +1,14 @@
+{
+	"folders": [],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	},
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webproject",
+		"editor.tokenColorCustomizations": {
+			"comments": "",
+			"textMateRules": []
+		}
+	}
+}
